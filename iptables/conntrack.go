@@ -1,3 +1,4 @@
+// +build !freebsd
 package iptables
 
 import (
